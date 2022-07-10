@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-example:npx create-react-app cardTodo
+example:
+npx create-react-app cardtodo
 
 ## Available Scripts
 
